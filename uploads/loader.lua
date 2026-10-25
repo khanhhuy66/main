@@ -2,7 +2,7 @@
     TELEPORT WAYPOINT PRO - LOADER
 ]]
 
-local scriptURL = "https://files.catbox.moe/wguwdw.lua"
+local scriptURL = "https://raw.githubusercontent.com/khanhhuy66/main/main/uploads/Teleport_Waypoint_Pro.lua"
 
 local success, err = pcall(function()
     loadstring(game:HttpGet(scriptURL))()
